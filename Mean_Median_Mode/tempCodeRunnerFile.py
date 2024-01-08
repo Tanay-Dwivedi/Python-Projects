@@ -1,0 +1,1 @@
+"The mean of the give list is: ", 

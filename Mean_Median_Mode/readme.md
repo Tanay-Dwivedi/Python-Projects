@@ -2,12 +2,14 @@
 
 This Python program calculates and prints the mean, median, and mode of a given list of numbers using the statistics module.
 
-<p>Mean - The mean is the average value of all the values in a dataset. To calculate the mean value of a dataset, we first need to find the sum of all the values and then divide the sum of all the values by the total number of values.</p>
-<p>Median - The Median is the middle value among all the values in sorted order. Here we need to calculate the mid-value of all the values in a dataset. But before calculating the Median, we need to arrange all the values in sorted order.
+Mean - The mean is the average value of all the values in a dataset. To calculate the mean value of a dataset, we first need to find the sum of all the values and then divide the sum of all the values by the total number of values.
+
+Median - The Median is the middle value among all the values in sorted order. Here we need to calculate the mid-value of all the values in a dataset. But before calculating the Median, we need to arrange all the values in sorted order.
 There are two different ways of calculating the median value:
 - when the total number of values is even: Median  = `[(n/2)th term + {(n/2)+1}th]/2`
-- when the total number of values is odd: Median = `{(n+1)/2}thterm`</p>
-<p>Mode - Mode is the most frequently occurring value among all the values.</p>
+- when the total number of values is odd: Median = `{(n+1)/2}thterm`
+
+Mode - Mode is the most frequently occurring value among all the values.
 
 -----
 

@@ -1,5 +1,7 @@
 # Group Anagrams
 
+*Anagrams* are words formed by rearranging the letters of another word
+
 The code groups a list of words into sets of anagrams. It uses a `defaultdict` to create groups based on the sorted characters of each word. The resulting groups are then printed. The primary use case is to identify and group words that are anagrams of each other.
 
 -----

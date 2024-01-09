@@ -8,8 +8,6 @@ This python program finds and prints missing numbers in a sequential range up to
 
 ## Code Break:
 
-Sure, let's go through the code line by line:
-
 ```python
 def find_missing_numer(n):
     numbers = set(n)

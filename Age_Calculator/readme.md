@@ -46,6 +46,4 @@ age_calculator(year, month, date)
 
 The `age_calculator` function is then called with the extracted values of day, month, and year as arguments to calculate and print the person's age.
 
-In summary, this code prompts the user to enter their date of birth, extracts the day, month, and year, and then calculates and prints the person's present age using the `age_calculator` function.
-
 -----

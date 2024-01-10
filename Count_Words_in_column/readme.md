@@ -2,6 +2,8 @@
 
 This Python code uses the Pandas library to load article data from a CSV file hosted online. It calculates the number of words in each article, adds a new column with this information to the dataset, and prints the resulting DataFrame. Essentially, it performs data analysis and manipulation tasks on the provided dataset.
 
+Using the `pandas` library for data handling and preparation. The pandas library doesn’t have any method to count the number of words in a piece of text. One way to solve this problem is by finding the length of the text by splitting the complete text.
+
 -----
 
 ## Installation

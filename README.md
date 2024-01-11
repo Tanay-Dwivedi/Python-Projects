@@ -2,7 +2,7 @@
 
 Some Python projects that I am building while learing for Data Science.
 
-   [QRCODE Generator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/QRCODE_Generator)
+-  [QRCODE Generator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/QRCODE_Generator)
 1. [Number Guessing Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Number_Guessing_Game)
 2. [Mean, Median & Mode](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Mean_Median_Mode)
 3. [Password Authentication](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Password_Authentication)

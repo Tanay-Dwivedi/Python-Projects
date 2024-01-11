@@ -15,3 +15,8 @@ Some Python projects that I am building while learing for Data Science.
 10. [Count Number of Words in a Column](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Words_in_column)
 11. [Rock Paper Scissors Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Rock_Paper_Scissors_Game)
 12. [Print Emojis](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Print_Emoji)
+13. [Correct Spellings](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Correct_Spellings)
+14. [Scraping GitHub Profile](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrapping_GitHub_Profile)
+15. [Visualize Linear Relationship](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Visualize_Linear_Relationship)
+16. [Generate Text]()
+17. [Scrape Table from a Website](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_Table_From_Website)

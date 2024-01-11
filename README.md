@@ -18,5 +18,5 @@ Some Python projects that I am building while learing for Data Science.
 13. [Correct Spellings](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Correct_Spellings)
 14. [Scraping GitHub Profile](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrapping_GitHub_Profile)
 15. [Visualize Linear Relationship](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Visualize_Linear_Relationship)
-16. [Generate Text]()
+16. [Generate Text](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Generate_Text)
 17. [Scrape Table from a Website](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_Table_From_Website)

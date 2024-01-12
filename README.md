@@ -18,5 +18,8 @@ Some Python projects that I am building while learing for Data Science.
 13. [Correct Spellings](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Correct_Spellings)
 14. [Scraping GitHub Profile](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrapping_GitHub_Profile)
 15. [Visualize Linear Relationship](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Visualize_Linear_Relationship)
-16. [Generate Text](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Generate_Text)
+16. [Generate Text](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Generate_Text) - _todo_
 17. [Scrape Table from a Website](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_Table_From_Website)
+18. [Extract Text from PDF](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Extract_Text_From_PDF)
+19. [Reverse String](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Reverse_String)
+20. [Sequence Matcher](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Match_Sequences)

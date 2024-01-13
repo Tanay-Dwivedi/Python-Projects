@@ -2,7 +2,6 @@
 
 Some Python projects that I am building while learing for Data Science.
 
--  [QRCODE Generator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/QRCODE_Generator)
 1. [Number Guessing Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Number_Guessing_Game)
 2. [Mean, Median & Mode](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Mean_Median_Mode)
 3. [Password Authentication](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Password_Authentication)
@@ -23,3 +22,9 @@ Some Python projects that I am building while learing for Data Science.
 18. [Extract Text from PDF](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Extract_Text_From_PDF)
 19. [Reverse String](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Reverse_String)
 20. [Sequence Matcher](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Match_Sequences)
+21. [QRCODE Generator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/QRCODE_Generator)
+22. [Decode a QR Code](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Decode_QRCode)
+23. [Create Dummy Data](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Create_Dummy_Data)
+24. [Remove Cuss Words](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Remove_Cuss_Words)
+
+-----

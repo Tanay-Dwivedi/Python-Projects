@@ -12,7 +12,7 @@ pip install pyzbar
 ```python
 pip install pillow
 ```
-Firstly import the `pyzbar` and `pillow` library through the terminal that will help in this data analysis.
+Firstly import the `pyzbar` and `pillow` library through the terminal that will help in this program.
 
 -----
 

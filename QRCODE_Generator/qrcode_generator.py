@@ -1,8 +1,6 @@
-# Import necessary library
-import qrcode as qr
+import pyqrcode
+import png
 
-# Create a QR code with the specified data (in this case, a GitHub URL)
-qr_code = qr.make("https://github.com/Tanay-Dwivedi")
-
-# Save the generated QR code image
-qr_code.save("Tanay's GitHub.png")
+link = "https://github.com/Tanay-Dwivedi"
+qr_code = pyqrcode.create(link)
+qr_code.png("GitHub_profile.png", scale=5)

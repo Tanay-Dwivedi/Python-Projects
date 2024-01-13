@@ -18,8 +18,6 @@ Firstly import the `PyQRCode` and `pypng` library through the terminal that will
 
 ## Code Break:
 
-Certainly! Now let's break down the provided code line by line:
-
 ```python
 # Import the pyqrcode library for generating QR codes and the png module for handling PNG images
 import pyqrcode

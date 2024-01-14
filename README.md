@@ -26,5 +26,11 @@ Some Python projects that I am building while learing for Data Science.
 22. [Decode a QR Code](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Decode_QRCode)
 23. [Create Dummy Data](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Create_Dummy_Data)
 24. [Remove Cuss Words](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Remove_Cuss_Words)
+25. [Find Duplicates](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Find_Duplicates)
+26. [Detect Questions](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Detect_Questions)
+27. [Voice Recorder](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Voice_Recorder)
+28. [Reading and Writing CSV Files](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Reading_and_Writing_CSV_Files)
+29. [Box Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Box_Plot)
+30. [Send Instagram Messages](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Send_Instagram_Messages)
 
 -----

@@ -9,7 +9,7 @@ Detecting questions means identifying whether a sentence is interrogative or not
 ```python
 pip install nltk
 ```
-Firstly import the `nltk` library through the terminal that will help in this data analysis.
+Firstly import the `nltk` library through the terminal that will help in this program.
 
 -----
 

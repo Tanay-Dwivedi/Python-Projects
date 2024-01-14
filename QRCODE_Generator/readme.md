@@ -12,7 +12,7 @@ pip install PyQRCode
 ```python
 pip install pypng
 ```
-Firstly import the `PyQRCode` and `pypng` library through the terminal that will help in this data analysis.
+Firstly import the `PyQRCode` and `pypng` library through the terminal that will help in this program.
 
 -----
 

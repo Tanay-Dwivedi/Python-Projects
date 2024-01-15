@@ -8,6 +8,15 @@ Price is one of the most important factors influencing the demand for a product.
 
 -----
 
+## Installation
+
+```python
+pip install pandas
+```
+Firstly import the pandas library through the terminal that will help in this data analysis.
+
+-----
+
 ## Code Break:
 
 ```python

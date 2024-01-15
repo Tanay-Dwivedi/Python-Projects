@@ -32,5 +32,11 @@ Some Python projects that I am building while learing for Data Science.
 28. [Reading and Writing CSV Files](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Reading_and_Writing_CSV_Files)
 29. [Box Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Box_Plot)
 30. [Send Instagram Messages](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Send_Instagram_Messages)
+31. [LCM](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/LCM)
+32. [Price Elasticity of Demand](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Price_Elasticity_of_Demand)
+33. [Count Most Frequent Words](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Most_Frequent_Words)
+34. [Count Capital Letters in a File](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Capital_Letters)
+35. [Index of Maximum Value](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Index_of_Maximum_Value)
+36. [Index of Minimum Value](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Index_of_Minimum_Value)
 
 -----

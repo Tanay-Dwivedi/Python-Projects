@@ -5,6 +5,15 @@ When you want to analyze how one feature in one dataset is affected by another f
 
 -----
 
+## Installation
+
+```
+pip install plotly
+```
+Firstly import the `plotly` library through the terminal that will help in the program.
+
+-----
+
 ## Code Break:
 
 ```python

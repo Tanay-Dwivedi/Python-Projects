@@ -1,4 +1,4 @@
-# Print a Calendar
+# Display a Calendar
 
 The calendar module in Python provides access to the calendar of any month of any year.
 There are so many useful built-in modules in Python that can be used to fulfil your goal in a few lines of code. One of these modules in Python is the `calendar` module which provides access to the calendar of any month of any year.

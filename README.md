@@ -38,5 +38,14 @@ Some Python projects that I am building while learing for Data Science.
 34. [Count Capital Letters in a File](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Capital_Letters)
 35. [Index of Maximum Value](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Index_of_Maximum_Value)
 36. [Index of Minimum Value](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Index_of_Minimum_Value)
+37. [Voice Recorder](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Voice_Recorder)
+38. [Send Instagram Messages](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Send_Instagram_Messages)
+39. [Animated Scatter Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Animated-Scatter_Plot)
+40. [Create Font Art](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Font_Art)
+41. [Collage Maker](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Collage_Maker)
+42. [Phone Number Details](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Phone_Number_Details)
+43. [Display a Calendar](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Display_Calendar)
+44. [Internet Speed Test](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Internet_Speed_Test)
+45. [Text to Handwriting](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Text_To_Handwriting)
 
 -----

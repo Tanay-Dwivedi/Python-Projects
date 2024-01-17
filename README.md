@@ -47,5 +47,10 @@ Some Python projects that I am building while learing for Data Science.
 43. [Display a Calendar](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Display_Calendar)
 44. [Internet Speed Test](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Internet_Speed_Test)
 45. [Text to Handwriting](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Text_To_Handwriting)
+46. [Shutdown Computer](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Shutdown_Computer)
+47. [Defang IP Address](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Defang_IP)
+48. [Web Scraping to Create a Dataset](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Web_Scraping)
+49. [Resume Scanner](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Resume_Scanner)
+50. [Merge Sort Algorithm](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Merge_Sort)
 
 -----

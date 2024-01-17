@@ -1,4 +1,4 @@
-# Merge Sort
+# Merge Sort Algorithm
 
 To sort an array we need to arrange the elements of the array by comparing each element efficiently. The merge sort algorithm uses the divide and conquer approach to sort an array by making the least number of comparisons between the elements of an array.
 

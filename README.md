@@ -52,5 +52,10 @@ Some Python projects that I am building while learing for Data Science.
 48. [Web Scraping to Create a Dataset](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Web_Scraping)
 49. [Resume Scanner](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Resume_Scanner)
 50. [Merge Sort Algorithm](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Merge_Sort)
+51. [Pick a Random Card](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Pick_Random_Card)
+52. [Quartile Deviation](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Quartile_Deviation)
+53. [Count Character Occurrences](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Character_Occurrences)
+54. [Pyramid Pattern](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Pyramid_Pattern)
+55. [Sequential Search](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Sequential_Search)
 
 -----

@@ -57,5 +57,10 @@ Some Python projects that I am building while learing for Data Science.
 53. [Count Character Occurrences](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Character_Occurrences)
 54. [Pyramid Pattern](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Pyramid_Pattern)
 55. [Sequential Search](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Sequential_Search)
+56. [Swap Variables](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Swap_Variables)
+57. [Sort NumPy Arrays](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Sort_NumPy_Arrays)
+58. [Validate Anagrams](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Validate_Anagrams)
+59. [Create Tables](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Create_Tables)
+60. [Recursive Binary Search](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Recursive_Binary_Search)
 
 -----

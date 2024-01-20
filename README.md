@@ -62,5 +62,10 @@ Some Python projects that I am building while learing for Data Science.
 58. [Validate Anagrams](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Validate_Anagrams)
 59. [Create Tables](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Create_Tables)
 60. [Recursive Binary Search](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Recursive_Binary_Search)
+61. [Backward For Loop](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Backward_For_Loop)
+62. [Dijkstra’s Algorithm](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Dijkstras_Algorithm)
+63. [Hash Tables](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Hash_Tables#hash-tables)
+64. [Queues](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Queuue)
+65. [Validate a Binary Search Tree](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Validate_Binary_Search_Tree)
 
 -----

@@ -3,6 +3,14 @@
 Plotting annotations while viewing graphs is considered a good practice because it makes your graphs self-explanatory.
 Plotting annotations while visualizing your data is considered good practice to make the graphs self-explanatory.
 
+-----
+
+## Installation
+
+```
+pip install matplotlib
+```
+Firstly import the `matplotlib` library through the terminal that will help in the program.
 
 -----
 

@@ -67,5 +67,10 @@ Some Python projects that I am building while learing for Data Science.
 63. [Hash Tables](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Hash_Tables#hash-tables)
 64. [Queues](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Queuue)
 65. [Validate a Binary Search Tree](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Validate_Binary_Search_Tree)
+66. [Stacks](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Stackks)
+67. [Palindrome Words](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Palindrome_Words)
+68. [Breadth-First Search](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Breadth_First_Search)
+69. [Plotting Annotations](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Plotting_Annotations)
+70. [Real-time Currency Converter](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Real_Time_Currency_Converter)
 
 -----

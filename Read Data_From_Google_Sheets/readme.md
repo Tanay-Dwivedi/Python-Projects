@@ -4,6 +4,21 @@ Google Sheets is an online spreadsheet service from Google that lets you create 
 
 -----
 
+## Installation
+
+```
+pip install oauth2client
+```
+```
+pip install gspread
+```
+```
+pip install --upgrade google-auth
+```
+Firstly import the `pyspellChecker`, `gspread` and `--upgrade google-auth` libraries through the terminal that will help in the program.
+
+-----
+
 # Code Break:
 
 ```python

@@ -4,6 +4,15 @@ An alarm clock is a clock with a function that can be activated to ring at a tim
 
 -----
 
+## Installation
+
+```
+pip install playsound
+```
+Firstly import the `playsound` library through the terminal that will help in the program.
+
+-----
+
 ## Code Break:
 
 ```python

@@ -82,5 +82,10 @@ Some Python projects that I am building while learing for Data Science.
 78. [Alarm Clock](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Alarm_Clock)
 79. [Email Slicer](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Email_Slicer)
 80. [Story Generator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Story_Generator)
+81. [Generate Password](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Generate_Password)
+82. [Rock Paper Scissors Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Rock_Paper_Scissors_Game)
+83. [Dice Roll Simulator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Dice_Roll_Simulator)
+84. [QR Code Generator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/QRCODE_Generator)
+85. [Animal Quiz Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Animal_Quiz_Game)
 
 -----

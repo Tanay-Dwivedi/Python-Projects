@@ -36,12 +36,6 @@ print(p)
 
 This line prints the generated password to the console.
 
-For example, if the user enters `12` as the desired password length, the output might be something like:
-
-```
-Y0$Hh(e5#&dZ
-```
-
 Note: The use of `random.sample()` ensures that the characters in the password are unique, and the resulting password will have the specified length.
 
 -----

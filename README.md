@@ -87,5 +87,10 @@ Some Python projects that I am building while learing for Data Science.
 83. [Dice Roll Simulator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Dice_Roll_Simulator)
 84. [QR Code Generator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/QRCODE_Generator)
 85. [Animal Quiz Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Animal_Quiz_Game)
+86. [Print Colored Text](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Print_Colored_Text)
+87. [BMI Calculator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/BMI_Calculator)
+88. [Convert Fahrenheit to Celsius](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Convert_Fahrenheit_to_Celsius)
+89. [Multiple User Inputs](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Multiple_User_Inputs)
+90. [Convert Roman Numbers to Decimals](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Convert_Roman_to_Decimals)
 
 -----

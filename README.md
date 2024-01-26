@@ -92,5 +92,11 @@ Some Python projects that I am building while learing for Data Science.
 88. [Convert Fahrenheit to Celsius](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Convert_Fahrenheit_to_Celsius)
 89. [Multiple User Inputs](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Multiple_User_Inputs)
 90. [Convert Roman Numbers to Decimals](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Convert_Roman_to_Decimals)
+91. [Pearson Correlation](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Pearson_Correlation)
+92. [Treemap](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Treemap)
+93. [Convert Image to Array](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Convert_Image_to_Array)
+94. [Scrape IMDb](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_IMDb)
+95. [Web Scraping to Create a Dataset](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Web_Scraping)
+
 
 -----

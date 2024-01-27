@@ -97,6 +97,11 @@ Some Python projects that I am building while learing for Data Science.
 93. [Convert Image to Array](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Convert_Image_to_Array)
 94. [Scrape IMDb](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_IMDb)
 95. [Web Scraping to Create a Dataset](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Web_Scraping)
+96. [Data Preprocessing Pipeline](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Data_Preprocessing_Pipeline)
+97. [End to End Chatbot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Chatbot)
+98. [Message Encryption](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Message_Encryption)
+99. [Distance Between Two Locations](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Distance_Between_Two_Locations)
+100. [Netflix Recommendation System](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Netflix_Recommendation_System) - _todo_
 
 
 -----

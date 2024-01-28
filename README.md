@@ -102,6 +102,10 @@ Some Python projects that I am building while learing for Data Science.
 98. [Message Encryption](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Message_Encryption)
 99. [Distance Between Two Locations](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Distance_Between_Two_Locations)
 100. [Netflix Recommendation System](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Netflix_Recommendation_System) - _todo_
-
+101. [Time Series Graph](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Time_Series_Graph)
+102. [Get Stock Price Data](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Get_Stock_Price_Data)
+103. [Data ETL Pipeline](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Data_ETL_Pipeline) - _todo_
+104. [Candlestick Chart](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Candlestick_Chart)
+105. [Word Cloud from a Pandas DataFrame](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Word_Cloud_from_Pandas_DataFrame)
 
 -----

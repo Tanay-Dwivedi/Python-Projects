@@ -107,5 +107,10 @@ Some Python projects that I am building while learing for Data Science.
 103. [Data ETL Pipeline](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Data_ETL_Pipeline) - _todo_
 104. [Candlestick Chart](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Candlestick_Chart)
 105. [Word Cloud from a Pandas DataFrame](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Word_Cloud_from_Pandas_DataFrame)
+106. [LeNet-5 Architecture](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/LeNet_5_Architecture)
+107. [End-to-End Encryption](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/End_to_End_Encryption)
+108. [Get Live Covid-19 Data](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Live_Covid_19_Data)
+109. [Violin Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Violin_Plot)
+110. [Sunburst Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Sunburst_Plot)
 
 -----

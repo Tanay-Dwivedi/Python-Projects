@@ -1,6 +1,7 @@
 # LeNet-5 Architecture
 
 The LeNet-5 architecture is the most widely used architecture of convolutional neural networks. It was created by Yann LeCunn in 1998. It includes 7 layers, excluding the input layer, which contains the trainable parameters called weights.
+
 ![Architecture](image-1.png)
 
 In the neural network architecture shown above:

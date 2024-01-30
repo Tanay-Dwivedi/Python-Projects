@@ -112,5 +112,10 @@ Some Python projects that I am building while learing for Data Science.
 108. [Get Live Covid-19 Data](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Live_Covid_19_Data)
 109. [Violin Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Violin_Plot)
 110. [Sunburst Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Sunburst_Plot)
+111. [Calculation of Accuracy](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Calculation_of_Accuracy)
+112. [Visualize a Neural Network](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Visualize_Neural_Network)
+113. [Bias and Variance](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Bias_and_Variance)
+114. [Live Weather Updates](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Live_Weather_Updates)
+115. [Count Objects in Image](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Objects_in_Image)
 
 -----

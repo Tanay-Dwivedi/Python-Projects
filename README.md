@@ -117,5 +117,10 @@ Some Python projects that I am building while learing for Data Science.
 113. [Bias and Variance](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Bias_and_Variance)
 114. [Live Weather Updates](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Live_Weather_Updates)
 115. [Count Objects in Image](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Objects_in_Image)
+116. [Scrape Trending News](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_Trending_News)
+117. [Real-time Stock Price Data Visualization](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Real_Time_Stock_Price_Data_Visualization)
+118. [OTP Verification](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/OTP_Verification)
+119. [Data Visualization on Map](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Data_Visualization_on_Map)
+120. [Choropleth Map](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Choropleth_Map)
 
 -----

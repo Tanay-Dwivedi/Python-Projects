@@ -122,5 +122,10 @@ Some Python projects that I am building while learing for Data Science.
 118. [OTP Verification](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/OTP_Verification)
 119. [Data Visualization on Map](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Data_Visualization_on_Map)
 120. [Choropleth Map](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Choropleth_Map)
+121. [Egg Catcher Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Egg_Catcher_Game)
+122. [Extract Country Details](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Extract_Country_Details)
+123. [Convert Text into Numerical Data](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Convert_Text_Into_Numerical_Data)
+124. [AUC and ROC Curve](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/AUC_and_ROC_Curve)
+125. [Language Translator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Language_Translator)
 
 -----

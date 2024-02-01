@@ -15,8 +15,6 @@ Firstly import the `scikit-learn pandas` libraries through the terminal that wil
 
 ## Code Break:
 
-Here's a breakdown of the provided Python script that uses `pandas` and `CountVectorizer` from scikit-learn to convert text data into a bag-of-words representation:
-
 ```python
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer

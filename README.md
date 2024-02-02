@@ -127,5 +127,10 @@ Some Python projects that I am building while learing for Data Science.
 123. [Convert Text into Numerical Data](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Convert_Text_Into_Numerical_Data)
 124. [AUC and ROC Curve](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/AUC_and_ROC_Curve)
 125. [Language Translator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Language_Translator)
+126. [Find Maximum Profit](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Find_Maximum_Profit)
+127. [Language Detection](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Language_Detection)
+128. [Histogram and Density Plots](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Histogram_and_Density_Plots)
+129. [Radar Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Radar_Plot)
+130. [Chatbot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/User_Chatbot)
 
 -----

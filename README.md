@@ -132,5 +132,10 @@ Some Python projects that I am building while learing for Data Science.
 128. [Histogram and Density Plots](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Histogram_and_Density_Plots)
 129. [Radar Plot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Radar_Plot)
 130. [Chatbot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/User_Chatbot)
+131. [Remove Stop Words](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Remove_Stop_Words)
+132. [Remove Unicode Characters](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Remove_Unicode_Characters)
+133. [Grammar Correction](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Grammar_Correction)
+134. [Caterpillar Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Caterpillar_Game)
+135. [Encrypt and Decrypt](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Encrypt_and_Decrypt)
 
 -----

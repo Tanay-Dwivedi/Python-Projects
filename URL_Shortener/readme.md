@@ -4,6 +4,15 @@ Short URLs are easy to remember or type, so they are very popular in the field o
 
 -----
 
+## Installation
+
+```
+pip install contextlib2
+```
+Firstly import the `contextlib2 ` library through the terminal that will help in the program.
+
+-----
+
 ## Code Break:
 
 ```python

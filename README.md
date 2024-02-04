@@ -74,7 +74,7 @@ Some Python projects that I am building while learing for Data Science.
 70. [Real-time Currency Converter](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Real_Time_Currency_Converter)
 71. [FizzBuzz Algorithm](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/FizzBuzz_Algorithm)
 72. [Extract Keywords](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Extract_Keywords)
-73. [Read Data From Google Sheets](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Read%20Data_From_Google_Sheets)
+73. [Read Data From Google Sheets](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Read_Data_From_Google_Sheets)
 74. [Invoice Generator](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Invoice_Generator)
 75. [Text-Based Adventure Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Text_Based_Adventure_Game)
 76. [Mad Libs Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Mad_Libs_Game)

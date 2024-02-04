@@ -137,5 +137,10 @@ Some Python projects that I am building while learing for Data Science.
 133. [Grammar Correction](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Grammar_Correction)
 134. [Caterpillar Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Caterpillar_Game)
 135. [Encrypt and Decrypt](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Encrypt_and_Decrypt)
+136. [Generate Word Clouds](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Generate_Word_Clouds)
+137. [Password Picker](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Password_Picker)
+138. [Contact Book](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Contact_Book)
+139. [URL Shortener](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/URL_Shortener)
+140. [Digital Clock GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Digital_Clock_GUI)
 
 -----

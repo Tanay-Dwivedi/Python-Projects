@@ -147,5 +147,10 @@ Some Python projects that I am building while learing for Data Science.
 143. [Game of Life](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Game_of_Life)
 144. [Extract Text From Videos](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Extract_Text_From_Videos)
 145. [Fidget Spinner Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Fidget_Spinner_Game)
+146. [Spelling Correction](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Spelling_Correction)
+147. [Turtle Graphics](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Turtle_Graphics)
+148. [Monty Hall Problem](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Monty_Hall_Problem)
+149. [Video to Audio Converter](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Video_to_Audio_Converter)
+150. [Tic Tac Toe GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Tic_Tac_Toe_GUI)
 
 -----

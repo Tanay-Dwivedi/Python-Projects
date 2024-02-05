@@ -15,8 +15,6 @@ Firstly import the `pytube` library through the terminal that will help in the p
 
 ## Code Break:
 
-This script uses the `pytube` library to download audio from a YouTube video and then converts it to an MP3 file. Let's break down the code:
-
 ```python
 from pytube import YouTube
 import os

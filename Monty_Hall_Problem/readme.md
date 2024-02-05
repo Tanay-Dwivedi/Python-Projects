@@ -14,8 +14,6 @@ The Monty Hall Problem is like this:
 
 ## Code Break:
 
-This code simulates the Monty Hall problem, a probability puzzle based on a game show scenario. The Monty Hall problem involves a player, a host, and three doors. Here's a breakdown of the code:
-
 ```python
 import random
 from random import seed, randint

@@ -142,5 +142,10 @@ Some Python projects that I am building while learing for Data Science.
 138. [Contact Book](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Contact_Book)
 139. [URL Shortener](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/URL_Shortener)
 140. [Digital Clock GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Digital_Clock_GUI)
+141. [Desktop Notification](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Desktop_Notification)
+142. [Use Your Phone Camera for Computer Vision](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Use_Your_Phone_Camera_for_Computer_Vision) - _todo_
+143. [Game of Life](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Game_of_Life)
+144. [Extract Text From Videos](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Extract_Text_From_Videos)
+145. [Fidget Spinner Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Fidget_Spinner_Game)
 
 -----

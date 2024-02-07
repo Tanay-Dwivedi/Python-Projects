@@ -152,5 +152,10 @@ Some Python projects that I am building while learing for Data Science.
 148. [Monty Hall Problem](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Monty_Hall_Problem)
 149. [Video to Audio Converter](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Video_to_Audio_Converter)
 150. [Tic Tac Toe GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Tic_Tac_Toe_GUI)
+151. [Calculator GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Calculator_GUI)
+152. [Number Guessing Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Number_Guessing)
+153. [Image Converter GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Image_Converter_GUI)
+154. [Weight Converter GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Weight_Converter_GUI)
+155. [Chessboard GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Chessboard)
 
 -----

@@ -157,5 +157,10 @@ Some Python projects that I am building while learing for Data Science.
 153. [Image Converter GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Image_Converter_GUI)
 154. [Weight Converter GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Weight_Converter_GUI)
 155. [Chessboard GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Chessboard)
+156. [Age and Gender Detection](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Age_and_Gender_Detection)
+157. [Create an Audiobook](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Create_an_Audiobook.py)
+158. [Face Detection](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Face_Detection)
+159. [Extract Text from PDF](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Get_Text_from_PDF)
+160. [Web Scraper](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Web_Scraper.py)
 
 -----

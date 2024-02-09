@@ -162,5 +162,10 @@ Some Python projects that I am building while learing for Data Science.
 158. [Face Detection](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Face_Detection)
 159. [Extract Text from PDF](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Get_Text_from_PDF)
 160. [Web Scraper](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Web_Scraper.py)
+161. [Pencil Sketch](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Pencil_Sketch)
+162. [Text Editor GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Text_Editor_GUI)
+163. [Instagram Filters](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Instagram_Filters)
+164. [Count Rainy Days](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Rainy_Days)
+165. [Quicksort](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Quicksort)
 
 -----

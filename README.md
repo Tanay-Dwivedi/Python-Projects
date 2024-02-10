@@ -17,7 +17,7 @@ Some Python projects that I am building while learing for Data Science.
 13. [Correct Spellings](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Correct_Spellings)
 14. [Scraping GitHub Profile](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrapping_GitHub_Profile)
 15. [Visualize Linear Relationship](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Visualize_Linear_Relationship)
-16. [Generate Text](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Generate_Text) - _todo_
+16. [Generate Text](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Generate_Text)
 17. [Scrape Table from a Website](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_Table_From_Website)
 18. [Extract Text from PDF](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Extract_Text_From_PDF)
 19. [Reverse String](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Reverse_String)
@@ -101,10 +101,10 @@ Some Python projects that I am building while learing for Data Science.
 97. [End to End Chatbot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Chatbot)
 98. [Message Encryption](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Message_Encryption)
 99. [Distance Between Two Locations](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Distance_Between_Two_Locations)
-100. [Netflix Recommendation System](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Netflix_Recommendation_System) - _todo_
+100. [Netflix Recommendation System](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Netflix_Recommendation_System) - __
 101. [Time Series Graph](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Time_Series_Graph)
 102. [Get Stock Price Data](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Get_Stock_Price_Data)
-103. [Data ETL Pipeline](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Data_ETL_Pipeline) - _todo_
+103. [Data ETL Pipeline](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Data_ETL_Pipeline) - __
 104. [Candlestick Chart](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Candlestick_Chart)
 105. [Word Cloud from a Pandas DataFrame](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Word_Cloud_from_Pandas_DataFrame)
 106. [LeNet-5 Architecture](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/LeNet_5_Architecture)
@@ -143,7 +143,7 @@ Some Python projects that I am building while learing for Data Science.
 139. [URL Shortener](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/URL_Shortener)
 140. [Digital Clock GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Digital_Clock_GUI)
 141. [Desktop Notification](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Desktop_Notification)
-142. [Use Your Phone Camera for Computer Vision](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Use_Your_Phone_Camera_for_Computer_Vision) - _todo_
+142. [Use Your Phone Camera for Computer Vision](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Use_Your_Phone_Camera_for_Computer_Vision) - __
 143. [Game of Life](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Game_of_Life)
 144. [Extract Text From Videos](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Extract_Text_From_Videos)
 145. [Fidget Spinner Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Fidget_Spinner_Game)
@@ -167,5 +167,10 @@ Some Python projects that I am building while learing for Data Science.
 163. [Instagram Filters](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Instagram_Filters)
 164. [Count Rainy Days](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Count_Rainy_Days)
 165. [Quicksort](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Quicksort)
+166. [Telegram Bot](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Telegram_Bot)
+167. [Scraping Twitter](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scraping_Twitter)
+168. [Text To Speech](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Text_To_Speech)
+169. [Keyword Research](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Keyword_Research)
+170. [Scrape Wikipedia](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_Wikipedia)
 
 -----

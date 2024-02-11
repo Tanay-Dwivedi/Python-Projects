@@ -15,8 +15,6 @@ Firstly import the `beautifulsoup4 urllib3` libraries through the terminal that 
 
 ## Code Break:
 
-This script scrapes product information (product name, price, and ratings) from Flipkart's search results page for Samsung mobiles.
-
 ```python
 from bs4 import BeautifulSoup as soup
 from urllib.request import urlopen as uReq

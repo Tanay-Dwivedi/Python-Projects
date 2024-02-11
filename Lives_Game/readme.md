@@ -6,8 +6,6 @@ In this game, you have to guess the secret word letter by letter. If you guessed
 
 ## Code Break:
 
-This script implements a simple word guessing game. Let's break it down:
-
 ```python
 import random
 ```

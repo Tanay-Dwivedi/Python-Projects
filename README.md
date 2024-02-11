@@ -172,5 +172,11 @@ Some Python projects that I am building while learing for Data Science.
 168. [Text To Speech](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Text_To_Speech)
 169. [Keyword Research](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Keyword_Research)
 170. [Scrape Wikipedia](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scrape_Wikipedia)
+171. [Lives Game](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Lives_Game)
+172. [Web Scraping to Create CSV](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Web_Scraping_to_Create_CSV)
+173. [Scraping Instagram](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Scraping_Instagram)
+174. [Analog Clock](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Analog_Clock)
+175. [3D Graphs](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/3D_Graphs)
+176.[Calender GUI](https://github.com/Tanay-Dwivedi/Python-Projects/tree/master/Calender_GUI)
 
 -----

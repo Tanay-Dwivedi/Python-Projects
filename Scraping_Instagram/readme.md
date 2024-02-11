@@ -15,8 +15,6 @@ Firstly import the `instaloader` library through the terminal that will help in 
 
 ## Code Break:
 
-This script utilizes Instaloader library to retrieve information from Instagram profiles and download their posts. Here's the explanation:
-
 ```python
 import instaloader
 ```
